@@ -1,3 +1,6 @@
+'''Write a Python program that accepts a string 
+   and calculate the number of digits and letters.'''
+   
 str = input("Enter string ")
 digits = 0
 letters = 0

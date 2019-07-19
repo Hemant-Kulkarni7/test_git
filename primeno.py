@@ -1,3 +1,5 @@
+#Write a python program to check whether given number is prime
+
 n = int (input("enter a number"))
 i=2
 while i < n :

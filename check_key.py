@@ -1,3 +1,5 @@
+#Write a Python script to check if a given key already exists in a dictionary.
+
 char = input("enter character ")
 print(type(char))
 d ={'a':1,'b':2,'c':3,'d':4,'e':5}

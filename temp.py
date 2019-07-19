@@ -1,3 +1,5 @@
+#Write a Python program to convert temperatures to and from celsius, fahrenheit
+
 c1 = int(input("enter temperature in celsius"))
 f1 = (c1*1.8 + 32)
 print("temperature in fahrenheit is ",f1)

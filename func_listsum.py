@@ -1,6 +1,7 @@
 n = int(input("enter number of elements in the list "))
 i = 0 
 l = []
+print("enter elements")
 
 while i < n:
     x = int(input())
